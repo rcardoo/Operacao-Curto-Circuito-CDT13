@@ -1,4 +1,4 @@
-# Operaca Curto Circuito CDT13
+# Operação Curto Circuito CDT13
 # Projeto 06 — Operação Curto-Circuito: Furto de Energia + Apagão
 
 > **Disciplina:** Programação para Ciência de Dados
