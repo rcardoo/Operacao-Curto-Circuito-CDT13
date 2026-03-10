@@ -7,7 +7,7 @@
 > **Curso:** MBA em Ciência de Dados — UNIFOR
 > **Professor:** Cássio Pinheiro
 > **Descrição:** Neste projeto, foi realizada uma análise de dados para investigar o aumento de furtos de energia (perdas não técnicas) e quedas de energia em bairros da capital cearense. Foram analisados dados de 5.000 unidades consumidoras, registros de ocorrências na rede elétrica e informações sobre transformadores.
-
+> **Vídeo:** https://drive.google.com/file/d/1LIo1qYZDv5914vPA9aUryup6THNFvb3S/view?usp=drivesdk
 ---
 
 ## Briefing da Operação
